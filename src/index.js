@@ -1,1 +1,2 @@
-import './partials/example'
+import './partials/templateMarkup'
+import './partials/theme'
