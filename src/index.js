@@ -1,2 +1,2 @@
-import './partials/templateMarkup'
-import './partials/theme'
+import './partials/js_templates/templateMarkup'
+import './partials/js_templates/theme'

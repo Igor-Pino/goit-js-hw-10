@@ -15,7 +15,7 @@ const Theme = {
 
  const setSavedTheme = function () {
     if(savedTheme === 'dark') {
-    bodyJs.classList.add('dark-theme')
+    setDarkTheme()
     themeSwitch.setAttribute('checked', true)
    }
  }

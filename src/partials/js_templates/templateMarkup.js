@@ -1,5 +1,5 @@
-import templetConstructor from './template.hbs';
-import menuItem from '../menu.json';
+import templetConstructor from '../templates/template.hbs';
+import menuItem from '../../menu.json';
 
 
 const menuRef = document.querySelector('.js-menu')
